@@ -20,15 +20,15 @@ O NebulaCore é uma plataforma fictícia criada para transformar pensamentos dis
 
 🛠️ Tecnologias Utilizadas
 
-JavaScript (para dar aquele ar moderno)
+JavaScript 
 
-Python (porque sempre tem)
+Python
 
-SQLite (leve e prático)
+SQLite 
 
-Docker (só pra parecer profissional)
+Docker 
 
-ImaginaryAPI v1.0 (não existe, mas seria incrível)
+ImaginaryAPI v1.0
 
 🚀 Como Executar
 # Clone o repositório
