@@ -1,79 +1,78 @@
-🚀 Projeto Fictício: NebulaCore
 
-Um sistema revolucionário para organizar ideias caóticas em soluções inteligentes usando tecnologia de ponta (e um pouco de imaginação).
+<img width="1024" height="700" alt="logo" src="https://github.com/user-attachments/assets/0609a4c5-9a50-4031-b944-786f86dec61f" />
 
-📌 Sobre o Projeto
+# ☁️ Nebula Core Cloud
 
-O NebulaCore é uma plataforma fictícia criada para transformar pensamentos dispersos em projetos estruturados. Ideal para desenvolvedores, criadores e sonhadores que precisam de uma ajudinha para sair do zero.
+Bem-vindo ao **Nebula Core Cloud** 🚀  
+Uma plataforma fictícia de computação em nuvem projetada para oferecer **escalabilidade, performance e segurança** para aplicações modernas.
 
-✨ Funcionalidades
+---
 
-🧠 Conversão de ideias em planos de ação
+## 📌 Sobre o Projeto
 
-⚙️ Simulação de execução de projetos
+O **Nebula Core Cloud** é uma solução de infraestrutura em nuvem que permite desenvolvedores e empresas criarem, implantarem e gerenciarem aplicações de forma eficiente e automatizada.
 
-📊 Geração automática de relatórios fictícios
+Inspirado nas melhores práticas de cloud computing, o Nebula Core oferece:
 
-🌌 Interface inspirada no espaço sideral
+- Provisionamento rápido de recursos
+- Alta disponibilidade
+- Escalabilidade automática
+- Monitoramento em tempo real
 
-🤖 Assistente virtual integrado (totalmente imaginário)
+---
 
-🛠️ Tecnologias Utilizadas
+## ⚙️ Principais Funcionalidades
 
--JavaScript 
+### 🔹 Compute Engine
+- Criação de máquinas virtuais sob demanda
+- Suporte a containers (Docker)
+- Auto Scaling baseado em carga
 
--Python
+### 🔹 Nebula Storage
+- Armazenamento seguro e distribuído
+- Backup automático
+- Alta durabilidade de dados
 
--SQLite 
+### 🔹 Nebula Network
+- Balanceamento de carga
+- Redes privadas virtuais (VPC)
+- Firewall configurável
 
--Docker 
+### 🔹 Monitoramento & Logs
+- Métricas em tempo real
+- Alertas inteligentes
+- Dashboard intuitivo
 
--ImaginaryAPI v1.0
+---
 
-🚀 Como Executar
-# Clone o repositório
-git clone https://github.com/seu-usuario/nebulacore.git
+## 🛠️ Tecnologias Utilizadas
 
-# Acesse a pasta
-cd nebulacore
+- **Java + Spring Boot** (backend)
+- **Docker & Kubernetes**
+- **PostgreSQL**
+- **AWS-like Architecture (simulada)**
+- **Prometheus & Grafana** (monitoramento)
 
-# Instale as dependências
-npm install
+---
 
-# Execute o projeto
-npm start
-📂 Estrutura de Pastas
-nebulacore/
-├── src/
-│   ├── core/
-│   ├── modules/
-│   └── utils/
-├── public/
-├── tests/
-└── README.md
-🧪 Testes
-npm test
+## 🚀 Como Executar o Projeto
 
-Resultados podem variar dependendo do nível de imaginação do usuário.
+### Pré-requisitos
+- Java 17+
+- Docker
+- Node.js (opcional para frontend)
 
-🤝 Contribuição
+### Passos
 
-Contribuições são bem-vindas! Sinta-se livre para:
+```bash
+# Clonar o repositório
+git clone https://github.com/seu-usuario/nebula-core-cloud.git
 
-Fazer um fork 🍴
+# Entrar no diretório
+cd nebula-core-cloud
 
-Criar uma branch (git checkout -b minha-feature)
+# Subir os containers
+docker-compose up -d
 
-Commitar suas mudanças (git commit -m 'feat: nova feature')
-
-Fazer push (git push origin minha-feature)
-
-Abrir um Pull Request 🚀
-
-⚠️ Aviso
-
-Este projeto é 100% fictício. Qualquer semelhança com sistemas reais é pura coincidência.
-
-📄 Licença
-
-Distribuído sob a licença MIT. Veja LICENSE para mais informações.
+# Executar aplicação
+./mvnw spring-boot:run
